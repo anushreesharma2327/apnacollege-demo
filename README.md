@@ -1,4 +1,4 @@
 # apnacollege-demo
-this is my first git repository
+This is my first git repository
 <br>
-author-anushree sharma
+Author-Anushree Sharma
